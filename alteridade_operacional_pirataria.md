@@ -1,0 +1,2 @@
+# Alteridade operacional: pirataria
+
