@@ -1,4 +1,4 @@
 # Summary
 
-* Alteridade operacional: pirataria
+* [Alteridade operacional: pirataria](alteridade_operacional_pirataria.md)
 
